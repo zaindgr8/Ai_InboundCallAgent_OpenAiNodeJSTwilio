@@ -1,0 +1,9 @@
+Inbound AI Call Agent
+Open Ai Api> Make Webhook Api> NGROk> Twilio Webhook add
+
+
+Ref: https://www.youtube.com/watch?v=b-DP0xPBwmI&t=752s
+
+Twillio i.e
+Configure> Webhook
+https://d65b-130-195-219-242.ngrok-free.app/incoming-call
